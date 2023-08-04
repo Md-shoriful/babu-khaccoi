@@ -2,6 +2,10 @@ h2{
     background-color: blue;
 }
 #book{
+    background-color: bisque;
+    width: 500px;
+    height: 40px;
+
     background-image: url(images/banner2.png);
     
 }
